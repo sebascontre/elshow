@@ -1,0 +1,4 @@
+#alert { background: #6441A5 !important; height: 40px !important; justify-content: flex-start; }
+#alert[class$="In"] { animation-name: slideInUp !important; }
+#alert[class$="Out"] { animation-name: slideOutDown !important; }
+#text { font-size: 28px !important; line-height: 44px }

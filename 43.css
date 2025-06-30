@@ -1,0 +1,13 @@
+#juego {
+  top: 20px;
+  left: 20px;
+  height: 600px;
+  width: 800px;
+}
+
+#dibujo {
+  top: 20px;
+  right: 20px;
+  height: 980px;
+  width: 1060px;
+}
